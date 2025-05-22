@@ -30,6 +30,7 @@ export default defineConfig([
           trailingComma: 'all',
           printWidth: 100,
           semi: true,
+          arrowParens: 'avoid',
           endOfLine: 'auto',
         },
       ],
